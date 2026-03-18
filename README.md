@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Yann
 
-<!--
-**yann166/yann166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur passionné par la création de solutions efficaces et élégantes.
+🎯 Objectif : construire des applications performantes et utiles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+* 🔭 Je travaille actuellement sur un projet de vente de voiture dans ligne avec un groupe d'amis 
+* 🌱 J’améliore constamment mes compétences en programmation
+* 💡 J’aime résoudre des problèmes et créer des solutions innovantes
+* ⚡ Fun fact : J’adore transformer des idées en applications concrètes
+
+---
+
+## 🛠️ Compétences
+
+### 🌐 Frontend
+
+* HTML5
+* CSS3
+
+### ⚙️ Backend & Programmation
+
+* Python 🐍 connaisance
+* C++ ⚡
+
+---
+
+## 📂 Projets
+
+🔹 **Nom du projet 1**
+➡️ Description courte du projet
+🛠️ Technologies : HTML, CSS
+
+🔹 **Nom du projet 2**
+➡️ Description courte du projet
+🛠️ Technologies : Python
+
+🔹 **Nom du projet 3**
+➡️ Description courte du projet
+🛠️ Technologies : C++
+
+---
+
+## 📈 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yann166\&show_icons=true\&theme=tokyonight)
+
+![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=yann166\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+* 📧 Email : [yann24@gmail.com](mailto:yann24@gmail.com)
+* 💼 LinkedIn : (ajoute ton lien ici)
+* 🌍 Portfolio : (si tu en as un)
+
+---
+
+## ✨ Citation
+
+> "TRY BEFORE GIVE-UP😎🤑"
+
+---
+
+⭐ N’hésite pas à explorer mes projets et à collaborer !
