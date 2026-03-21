@@ -15,6 +15,8 @@
 ---
 
 ## 🛠️ Compétences
+vibe coding
+codage assisté IA
 
 ### 🌐 Frontend
 
@@ -24,23 +26,23 @@
 ### ⚙️ Backend & Programmation
 
 * Python 🐍 connaisance
-* C++ ⚡
+* C++ pre-requis
 
 ---
 
 ## 📂 Projets
 
 🔹 **Nom du projet 1**
-➡️ Description courte du projet
+➡️ login
 🛠️ Technologies : HTML, CSS
 
 🔹 **Nom du projet 2**
-➡️ Description courte du projet
-🛠️ Technologies : Python
+➡️ page web des voitures en lignes
+🛠️ Technologies : HTML, CSS, JS
 
 🔹 **Nom du projet 3**
-➡️ Description courte du projet
-🛠️ Technologies : C++
+➡️ page web de vente d'accesoires
+🛠️ Technologies : HTML, CSS, JS
 
 ---
 
@@ -54,7 +56,7 @@
 
 ## 📫 Me contacter
 
-* 📧 Email : [yann24@gmail.com](mailto:yann24@gmail.com)
+* 📧 Email : [yannkuate24@gmail.com](mailto:yann24@gmail.com)
 * 💼 LinkedIn : (ajoute ton lien ici)
 * 🌍 Portfolio : (si tu en as un)
 
@@ -62,7 +64,7 @@
 
 ## ✨ Citation
 
-> "TRY BEFORE GIVE-UP😎🤑"
+> "un bon programmeur est celui qui programme chaque jour."
 
 ---
 
