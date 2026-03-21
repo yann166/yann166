@@ -11,6 +11,7 @@
 * 🌱 J’améliore constamment mes compétences en programmation
 * 💡 J’aime résoudre des problèmes et créer des solutions innovantes
 * ⚡ Fun fact : J’adore transformer des idées en applications concrètes
+* j'aime l'invite de commande mais plus sur kali linux
 
 ---
 
