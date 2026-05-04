@@ -19,6 +19,7 @@
 vibe coding
 codage assisté IA
 
+
 ### 🌐 Frontend
 
 * HTML5
@@ -44,6 +45,9 @@ codage assisté IA
 🔹 **Nom du projet 3**
 ➡️ page web de vente d'accesoires
 🛠️ Technologies : HTML, CSS, JS
+🔹 **Nom du projet 3**
+➡️ QRCODE PYTHON
+
 
 ---
 
